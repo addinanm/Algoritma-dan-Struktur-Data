@@ -4,6 +4,7 @@ Divide Qonquer 2
 ## Belajar sisip gambar
 <img src="belajar.jpg">
 
+## Tugas Praktikum
 ## Praktikum 3
 Pertanyaan :
 1. <img src="satu.jpg">
@@ -37,4 +38,3 @@ Pertanyaan :
 	o(3+n*3+3+2)
 	o(n)
 
-## Tugas Praktikum
